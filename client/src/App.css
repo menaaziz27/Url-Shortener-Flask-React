@@ -1,0 +1,27 @@
+/* h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+label {
+	color: #fff !important;
+}
+*/
+
+a {
+	text-decoration: none !important;
+	cursor: pointer;
+}
+
+ul {
+	list-style-type: none !important;
+}
+li {
+	border: 0 !important;
+}
+
+.btn:focus {
+	outline: none;
+	box-shadow: none;
+}
