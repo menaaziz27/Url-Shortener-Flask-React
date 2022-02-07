@@ -1,7 +1,6 @@
 from flask_pymongo import pymongo
-import os
 
-MONGO_URI = os.getenv("MONGO_URI")
+MONGO_URI = 'mongodb+srv://root:admin@mycluster.dlfkm.mongodb.net/url-shortener?retryWrites=true&w=majority'
 
 try:
     mongo = pymongo.MongoClient(MONGO_URI)    
