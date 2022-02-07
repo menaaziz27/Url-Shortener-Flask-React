@@ -31,7 +31,8 @@ As the name suggests, this application shortens your long URLs to a short one an
 3. Fetch all short URLs
 4. Input validation
 5. Handling errors
-6. Documented API
+6. Pagination
+7. Documented API
 
 ### Consideration
 
