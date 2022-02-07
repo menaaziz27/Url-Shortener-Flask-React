@@ -2,7 +2,7 @@
 
 As the name suggests, this application shortens your long URLs to a short one and redirect you to different destinations depending on your platform (iOS, Android, Desktop)
 
-### prerequests
+### Prerequisites
 
 1. python should be installed locally
 2. setup your MongoDB
@@ -14,11 +14,6 @@ As the name suggests, this application shortens your long URLs to a short one an
 3. `python main.py`
 4. `cd .. && cd client/ && npm install`
 5. `npm start`
-
-### requirements
-
-1. You should add your .env file in the root directory of **backend/** folder
-2. Your .env file should includes **PORT** & **MONGO_URI** as in **.env.example**
 
 ### Postman Collection
 
@@ -33,11 +28,6 @@ As the name suggests, this application shortens your long URLs to a short one an
 5. Handling errors
 6. Pagination
 7. Documented API
-
-### Consideration
-
-- Naming convension
-- Folder Structure
 
 ### Technologies
 
